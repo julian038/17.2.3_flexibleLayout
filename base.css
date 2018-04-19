@@ -1,0 +1,56 @@
+body {
+    color: #111;
+    background-color: #fdfdfd;
+    font-size: 16px;
+  }
+  
+  header {
+    height: 58px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .site-title {
+    font-size: 26px;
+    line-height: 56px;
+  }
+  
+  ul.post-list {
+    list-style: none;
+    padding: 0px;
+  }
+  
+  h2 {
+    font-weight: 400;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-title:visited {
+    color: #424242;
+  }
+  
+  .post-link {
+    color: #2a7ae2;
+    text-decoration: none;
+  }
+  
+  .post-link:visited {
+    color: #1756a9;
+  }
+  
+  .post-link:hover {
+    color: #111;
+  }
+  
+  .post-meta {
+    color: #828282;
+    font-size: 14px;
+  }
+  
